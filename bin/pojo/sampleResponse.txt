@@ -1,0 +1,48 @@
+{
+	"instructor":"aliveli",
+	"url":"xyz.com",
+	"services":"procesSupport",
+	"expertise":"Automation",
+	"courses":{
+		
+		"webAutomation":[
+
+			{
+				"courseTitle":"title1",
+				"price":"5"
+			},
+			{
+				"courseTitle":"title11",
+				"price":"15"
+			},
+			{
+				"courseTitle":"title12",
+				"price":"25"
+			}
+
+		],
+		
+		"api":[
+			{
+				"courseTitle":"title2",
+				"price":"6"
+			},
+			{
+				"courseTitle":"title21",
+				"price":"16"
+			}
+		],
+		
+		"mobile":[
+			{
+				"courseTitle":"title3",
+				"price":"7"
+			}
+		]
+	
+	
+	},
+	"linkedIn":"aliveliLinkedIn"
+
+
+}
